@@ -1,0 +1,64 @@
+C:\Users\nesak\board\Boardgame\Persistence\bin\Debug\net8.0\Persistence.deps.json
+C:\Users\nesak\board\Boardgame\Persistence\bin\Debug\net8.0\Persistence.dll
+C:\Users\nesak\board\Boardgame\Persistence\bin\Debug\net8.0\Persistence.pdb
+C:\Users\nesak\board\Boardgame\Persistence\bin\Debug\net8.0\Domain.dll
+C:\Users\nesak\board\Boardgame\Persistence\bin\Debug\net8.0\Domain.pdb
+C:\Users\nesak\board\Boardgame\Persistence\obj\Debug\net8.0\Persistence.csproj.AssemblyReference.cache
+C:\Users\nesak\board\Boardgame\Persistence\obj\Debug\net8.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nesak\board\Boardgame\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\nesak\board\Boardgame\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfo.cs
+C:\Users\nesak\board\Boardgame\Persistence\obj\Debug\net8.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\nesak\board\Boardgame\Persistence\obj\Debug\net8.0\Persistence.sourcelink.json
+C:\Users\nesak\board\Boardgame\Persistence\obj\Debug\net8.0\Persiste.61C28332.Up2Date
+C:\Users\nesak\board\Boardgame\Persistence\obj\Debug\net8.0\Persistence.dll
+C:\Users\nesak\board\Boardgame\Persistence\obj\Debug\net8.0\refint\Persistence.dll
+C:\Users\nesak\board\Boardgame\Persistence\obj\Debug\net8.0\Persistence.pdb
+C:\Users\nesak\board\Boardgame\Persistence\obj\Debug\net8.0\ref\Persistence.dll
+C:\Users\nesak\KOPIAC#\board\Boardgame\Persistence\bin\Debug\net8.0\Persistence.deps.json
+C:\Users\nesak\KOPIAC#\board\Boardgame\Persistence\bin\Debug\net8.0\Persistence.dll
+C:\Users\nesak\KOPIAC#\board\Boardgame\Persistence\bin\Debug\net8.0\Persistence.pdb
+C:\Users\nesak\KOPIAC#\board\Boardgame\Persistence\bin\Debug\net8.0\Domain.dll
+C:\Users\nesak\KOPIAC#\board\Boardgame\Persistence\bin\Debug\net8.0\Domain.pdb
+C:\Users\nesak\KOPIAC#\board\Boardgame\Persistence\obj\Debug\net8.0\Persistence.csproj.AssemblyReference.cache
+C:\Users\nesak\KOPIAC#\board\Boardgame\Persistence\obj\Debug\net8.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nesak\KOPIAC#\board\Boardgame\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\nesak\KOPIAC#\board\Boardgame\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfo.cs
+C:\Users\nesak\KOPIAC#\board\Boardgame\Persistence\obj\Debug\net8.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\nesak\KOPIAC#\board\Boardgame\Persistence\obj\Debug\net8.0\Persistence.sourcelink.json
+C:\Users\nesak\KOPIAC#\board\Boardgame\Persistence\obj\Debug\net8.0\Persiste.61C28332.Up2Date
+C:\Users\nesak\KOPIAC#\board\Boardgame\Persistence\obj\Debug\net8.0\Persistence.dll
+C:\Users\nesak\KOPIAC#\board\Boardgame\Persistence\obj\Debug\net8.0\refint\Persistence.dll
+C:\Users\nesak\KOPIAC#\board\Boardgame\Persistence\obj\Debug\net8.0\Persistence.pdb
+C:\Users\nesak\KOPIAC#\board\Boardgame\Persistence\obj\Debug\net8.0\ref\Persistence.dll
+C:\Users\nesak\KOPIACkrata\board\Boardgame\Persistence\bin\Debug\net8.0\Persistence.deps.json
+C:\Users\nesak\KOPIACkrata\board\Boardgame\Persistence\bin\Debug\net8.0\Persistence.dll
+C:\Users\nesak\KOPIACkrata\board\Boardgame\Persistence\bin\Debug\net8.0\Persistence.pdb
+C:\Users\nesak\KOPIACkrata\board\Boardgame\Persistence\bin\Debug\net8.0\Domain.dll
+C:\Users\nesak\KOPIACkrata\board\Boardgame\Persistence\bin\Debug\net8.0\Domain.pdb
+C:\Users\nesak\KOPIACkrata\board\Boardgame\Persistence\obj\Debug\net8.0\Persistence.csproj.AssemblyReference.cache
+C:\Users\nesak\KOPIACkrata\board\Boardgame\Persistence\obj\Debug\net8.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nesak\KOPIACkrata\board\Boardgame\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\nesak\KOPIACkrata\board\Boardgame\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfo.cs
+C:\Users\nesak\KOPIACkrata\board\Boardgame\Persistence\obj\Debug\net8.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\nesak\KOPIACkrata\board\Boardgame\Persistence\obj\Debug\net8.0\Persistence.sourcelink.json
+C:\Users\nesak\KOPIACkrata\board\Boardgame\Persistence\obj\Debug\net8.0\Persiste.61C28332.Up2Date
+C:\Users\nesak\KOPIACkrata\board\Boardgame\Persistence\obj\Debug\net8.0\Persistence.dll
+C:\Users\nesak\KOPIACkrata\board\Boardgame\Persistence\obj\Debug\net8.0\refint\Persistence.dll
+C:\Users\nesak\KOPIACkrata\board\Boardgame\Persistence\obj\Debug\net8.0\Persistence.pdb
+C:\Users\nesak\KOPIACkrata\board\Boardgame\Persistence\obj\Debug\net8.0\ref\Persistence.dll
+C:\Users\nesak\najlepsze\net + react\board\Boardgame\Persistence\bin\Debug\net8.0\Persistence.deps.json
+C:\Users\nesak\najlepsze\net + react\board\Boardgame\Persistence\bin\Debug\net8.0\Persistence.dll
+C:\Users\nesak\najlepsze\net + react\board\Boardgame\Persistence\bin\Debug\net8.0\Persistence.pdb
+C:\Users\nesak\najlepsze\net + react\board\Boardgame\Persistence\bin\Debug\net8.0\Domain.dll
+C:\Users\nesak\najlepsze\net + react\board\Boardgame\Persistence\bin\Debug\net8.0\Domain.pdb
+C:\Users\nesak\najlepsze\net + react\board\Boardgame\Persistence\obj\Debug\net8.0\Persistence.csproj.AssemblyReference.cache
+C:\Users\nesak\najlepsze\net + react\board\Boardgame\Persistence\obj\Debug\net8.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nesak\najlepsze\net + react\board\Boardgame\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\nesak\najlepsze\net + react\board\Boardgame\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfo.cs
+C:\Users\nesak\najlepsze\net + react\board\Boardgame\Persistence\obj\Debug\net8.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\nesak\najlepsze\net + react\board\Boardgame\Persistence\obj\Debug\net8.0\Persistence.sourcelink.json
+C:\Users\nesak\najlepsze\net + react\board\Boardgame\Persistence\obj\Debug\net8.0\Persiste.61C28332.Up2Date
+C:\Users\nesak\najlepsze\net + react\board\Boardgame\Persistence\obj\Debug\net8.0\Persistence.dll
+C:\Users\nesak\najlepsze\net + react\board\Boardgame\Persistence\obj\Debug\net8.0\refint\Persistence.dll
+C:\Users\nesak\najlepsze\net + react\board\Boardgame\Persistence\obj\Debug\net8.0\Persistence.pdb
+C:\Users\nesak\najlepsze\net + react\board\Boardgame\Persistence\obj\Debug\net8.0\ref\Persistence.dll

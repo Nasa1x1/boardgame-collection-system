@@ -1,0 +1,52 @@
+C:\Users\nesak\board\Boardgame\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\nesak\board\Boardgame\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\nesak\board\Boardgame\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\nesak\board\Boardgame\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nesak\board\Boardgame\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\nesak\board\Boardgame\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\nesak\board\Boardgame\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\nesak\board\Boardgame\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\Users\nesak\board\Boardgame\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\nesak\board\Boardgame\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\nesak\board\Boardgame\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\nesak\board\Boardgame\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\nesak\board\Boardgame\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Users\nesak\KOPIAC#\board\Boardgame\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\nesak\KOPIAC#\board\Boardgame\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\nesak\KOPIAC#\board\Boardgame\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\nesak\KOPIAC#\board\Boardgame\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Users\nesak\KOPIAC#\board\Boardgame\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nesak\KOPIAC#\board\Boardgame\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\nesak\KOPIAC#\board\Boardgame\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\nesak\KOPIAC#\board\Boardgame\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\nesak\KOPIAC#\board\Boardgame\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\Users\nesak\KOPIAC#\board\Boardgame\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\nesak\KOPIAC#\board\Boardgame\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\nesak\KOPIAC#\board\Boardgame\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\nesak\KOPIAC#\board\Boardgame\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\nesak\KOPIACkrata\board\Boardgame\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\nesak\KOPIACkrata\board\Boardgame\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\nesak\KOPIACkrata\board\Boardgame\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\nesak\KOPIACkrata\board\Boardgame\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Users\nesak\KOPIACkrata\board\Boardgame\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nesak\KOPIACkrata\board\Boardgame\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\nesak\KOPIACkrata\board\Boardgame\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\nesak\KOPIACkrata\board\Boardgame\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\nesak\KOPIACkrata\board\Boardgame\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\Users\nesak\KOPIACkrata\board\Boardgame\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\nesak\KOPIACkrata\board\Boardgame\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\nesak\KOPIACkrata\board\Boardgame\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\nesak\KOPIACkrata\board\Boardgame\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\nesak\najlepsze\net + react\board\Boardgame\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\nesak\najlepsze\net + react\board\Boardgame\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\nesak\najlepsze\net + react\board\Boardgame\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\nesak\najlepsze\net + react\board\Boardgame\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Users\nesak\najlepsze\net + react\board\Boardgame\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nesak\najlepsze\net + react\board\Boardgame\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\nesak\najlepsze\net + react\board\Boardgame\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\nesak\najlepsze\net + react\board\Boardgame\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\nesak\najlepsze\net + react\board\Boardgame\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\Users\nesak\najlepsze\net + react\board\Boardgame\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\nesak\najlepsze\net + react\board\Boardgame\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\nesak\najlepsze\net + react\board\Boardgame\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\nesak\najlepsze\net + react\board\Boardgame\Domain\obj\Debug\net8.0\ref\Domain.dll
