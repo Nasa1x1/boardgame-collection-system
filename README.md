@@ -1,4 +1,4 @@
-# Boardgame Collection
+# Boardgame Collection System
 
 A system for managing a board game collection.
 
