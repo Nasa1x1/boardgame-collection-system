@@ -7,4 +7,4 @@ This repository contains a **single frontend** (`client-app`) and **two differen
 - branch **nest** → backend in NestJS  
 
 Both branches share the same frontend but differ in the backend implementation.  
-Switch to the branch you prefer to work with depending on the backend technology.
+
